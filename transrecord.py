@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv)==6:
+if len(sys.argv)==5:
     stdname=sys.argv[1]
     busnum=sys.argv[2]
     pickuppoint=sys.argv[3]
