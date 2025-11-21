@@ -11,7 +11,7 @@ else:
     busnum= "0506"
     pickuppoint="bvb"
     drivernum="9900852961"
-    print("Student Name:"stdname)
-    print("Bus Number:"busnum)
-    print("Pick Up Point:"pickuppoint)
-    print("Driver Phone Number:"drivernum)
+    print("Student Name:"stdname);
+    print("Bus Number:"busnum;
+    print("Pick Up Point:"pickuppoint);
+    print("Driver Phone Number:"drivernum);
